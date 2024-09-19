@@ -270,6 +270,7 @@ a.primary-button {
 a.primary-button:hover {
   background: var(--primary-button-background-color-hover);
   color: var(--primary-button-text-color-hover);
+  cursor: pointer;
 }
 
 a.secondary-button {

@@ -12,6 +12,15 @@ nav:
           - Simulator: playbook/simulator.md
   - Swen AI:
       - Overview: swen/overview.md
+  - SocialBot:
+      - Overview: socialbot/overview.md
+  - Custom Apps:
+      - Overview: custom/overview.md
+  - TikTok Partnership:
+      - Overview: tiktok/overview.md
+  - Botpress Partnership:
+      - Overview: botpress/overview.md
+
 theme:
   name: material
   custom_dir: docs/theme

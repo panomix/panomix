@@ -42,7 +42,7 @@ hide:
     You can find out more on our products & services.
   </div>
   <div class="header-buttons">
-    <a class="primary-button" onClick="openCalendly()">Book a meeting</a>
+    <a class="primary-button" onClick="openCalendly()">파노믹스팀과 상담하기</a>
   </div>
 </header>
 
