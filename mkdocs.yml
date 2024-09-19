@@ -1,5 +1,5 @@
 site_name: Panomix
-repo_url: https://github.io/panomix/panomix
+repo_url: https://github.com/panomix/panomix/
 repo_name: panomix/panomix
 strict: true
 nav:
@@ -48,8 +48,6 @@ theme:
     - search.highlight
   language: en
 
-extra_javascript:
-  - javascript/docbot.js
 extra_css:
   - stylesheets/extra.css
 

@@ -37,7 +37,7 @@ document.addEventListener(
   },
   // Added 'true' for event capture so we can intercept before mkdocs material
   // handles the search button clicks.
-  true,
+  true
 );
 
 document.addEventListener(
@@ -63,7 +63,7 @@ document.addEventListener(
       showDocbotIframe();
     }
   },
-  true,
+  true
 );
 
 // Create the iframe
@@ -71,7 +71,7 @@ function createDocbotIframe() {
   const iframe = document.createElement('iframe');
   iframe.id = 'docbot-iframe';
   iframe.src = ['http://localhost:8000', 'http://127.0.0.1:8000'].includes(
-    window.location.origin,
+    window.location.origin
   )
     ? 'http://localhost:32123'
     : 'https://wwwillchen-mesop-docs-bot.hf.space/';
