@@ -6,19 +6,20 @@ nav:
   - index.md
   - Playbook:
       - Overview: playbook/overview.md
-      - Guides:
-          - Data Integration: playbook/dataintegration.md
-          - Dashboards: playbook/dashboards.md
-          - Simulator: playbook/simulator.md
+      - Features: playbook/features.md
   - Swen AI:
       - Overview: swen/overview.md
+      - Features: swen/features.md
   - SocialBot:
       - Overview: socialbot/overview.md
+      - Features: socialbot/features.md
+      - Client Cases: socialbot/clientcases.md
   - Custom Apps:
       - Overview: custom/overview.md
-  - TikTok Partnership:
+      - Client Cases: custom/clientcases.md
+  - TikTok Marketing Partner:
       - Overview: tiktok/overview.md
-  - Botpress Partnership:
+  - Botpress Certified Partner:
       - Overview: botpress/overview.md
 
 theme:
@@ -76,6 +77,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html
 
 plugins:
   - blog
@@ -102,3 +104,11 @@ plugins:
             show_symbol_type_toc: true
             signature_crossrefs: true
             summary: true
+# extra:
+#   alternate:
+#     - name: English
+#       link: /en/
+#       lang: en
+#     - name: 한국어
+#       link: /ko/
+#       lang: ko

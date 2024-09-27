@@ -36,7 +36,7 @@ hide:
 </style>
 
 <header>
-  <div class="headline">Home of Panomix Docs</div>
+  <div class="headline">Panomix Docs</div>
   <div class="sub-headline">
     Welcome to our doc site!</br>
     You can find out more on our products & services.
@@ -54,16 +54,41 @@ function openCalendly() {
 <section class="container">
   <div class="section-chip panomix-blue">New Product</div>
   <div class="section-headline">
-    Introducing Swen AI
+    Swen AI
   </div>
   <div class="section-body">
     매체를 위한 뉴스 생성 AI 플랫폼인 스웬 AI를 소개합니다. 뉴스 소재 발굴부터 기사 작성까지 파노믹스의 AI가 미디어 산업의 새로운 패러다임을 만들어갑니다.
   </div>
 </section>
-<div class="left">
+<div class="center">
       <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/kIkpnR-KD88?si=qF_Mhi3Kq3sIan3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<!-- 
+<section class="container">
+  <div class="section-chip panomix-blue">Client Testimonial</div>
+  <div class="section-headline">
+    SocialBot AI
+  </div>
+  <div class="section-body">
+    생성형 AI를 활용한 소셜미디어 관리는 어떤 결과를 가져올까요? 파노믹스의 AI 소셜미디어 관리툴인 소셜봇을 활용하고 있는, 소셜뉴스 위키트리의 하진경 님이 지난 몇 달간 소셜봇과 함께 한 다양한 경험을 직접 소개합니다.
+  </div>
+</section>
+<div class="left">
+      <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/T5rBtcD8A_Q?si=4gY7EtuXHBh9j0um" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<section class="container">
+  <div class="section-chip panomix-blue">Webinar</div>
+  <div class="section-headline">
+    생성형AI 챗봇 만들기
+  </div>
+  <div class="section-body">
+    봇프레스의 로버트 로렐라(Robert Laurella) 디지털 마케팅 매니저와 파노믹스의 한승수 대표가 함께 OpenAI의 기술에 기반한 챗봇 밀더인 봇프레스를 통해 누구나 쉽게 생성형AI 챗봇을 만들 수 있도록 기획한 웨비나입니다. 
+  </div>
+</section>
+<div class="left">
+       <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/X8B6HeqCWCg?si=3HANYvd1S4N9-yT5"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<!--
 <section id="modern-ui-principles" class="container blue-gradient-background" style="padding-bottom: var(--modern-ui-principles-offset)">
   <div class="section-chip blue">Modern UI principles</div>
   <div class="section-headline">
