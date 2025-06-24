@@ -60,11 +60,13 @@ p {
 }
 
 [data-md-color-scheme='mesop-dark'] {
-  --md-default-bg-color: var(--black); /* var(--galaxy);*/
+  --md-default-bg-color: var(--black);
+  /* var(--galaxy);*/
   --md-default-fg-color: var(--almost-white);
   --md-default-fg-color--light: var(--almost-white);
   --md-default-fg-color--lighter: var(--almost-white);
-  --md-primary-fg-color: var(--black); /* var(--space); */
+  --md-primary-fg-color: var(--black);
+  /* var(--space); */
   --md-primary-bg-color: var(--almost-white);
   --md-accent-fg-color: var(--cosmic);
 
@@ -97,22 +99,26 @@ p {
 
 [data-md-color-scheme='mesop-light'] img[src$='#only-dark'],
 [data-md-color-scheme='mesop-light'] img[src$='#gh-dark-mode-only'] {
-  display: none; /* Hide dark images in light mode */
+  display: none;
+  /* Hide dark images in light mode */
 }
 
 [data-md-color-scheme='mesop-light'] img[src$='#only-light'],
 [data-md-color-scheme='mesop-light'] img[src$='#gh-light-mode-only'] {
-  display: inline; /* Show light images in light mode */
+  display: inline;
+  /* Show light images in light mode */
 }
 
 [data-md-color-scheme='mesop-dark'] img[src$='#only-light'],
 [data-md-color-scheme='mesop-dark'] img[src$='#gh-light-mode-only'] {
-  display: none; /* Hide light images in dark mode */
+  display: none;
+  /* Hide light images in dark mode */
 }
 
 [data-md-color-scheme='mesop-dark'] img[src$='#only-dark'],
 [data-md-color-scheme='mesop-dark'] img[src$='#gh-dark-mode-only'] {
-  display: inline; /* Show dark images in dark mode */
+  display: inline;
+  /* Show dark images in dark mode */
 }
 
 .md-header--shadow {
@@ -128,6 +134,7 @@ p {
 .md-typeset__table {
   min-width: 100%;
 }
+
 .md-typeset table:not([class]) {
   display: table;
 }
@@ -192,7 +199,7 @@ p {
 }
 
 /* Based on https://github.com/squidfunk/mkdocs-material/issues/2574#issuecomment-821979698 */
-[data-md-toggle='search']:not(:checked) ~ .md-header .md-search__form::after {
+[data-md-toggle='search']:not(:checked)~.md-header .md-search__form::after {
   position: absolute;
   top: 0.3rem;
   right: 0.5rem;
@@ -229,7 +236,7 @@ p {
 }
 
 /* Caps the height of the code snippets. */
-.md-typeset pre > code {
+.md-typeset pre>code {
   max-height: 450px;
 }
 
@@ -371,8 +378,7 @@ a.secondary-button:hover {
 }
 
 .container {
-  padding-top: 36px;
-  
+  padding-top: 48px;
 }
 
 [data-md-color-scheme='mesop-dark'] .container {
@@ -383,11 +389,9 @@ a.secondary-button:hover {
   --a: #fff8e0;
   --b: #fff9e5;
   --c: #fffaf0;
-  background: radial-gradient(
-      circle farthest-side at 28% 54%,
+  background: radial-gradient(circle farthest-side at 28% 54%,
       var(--a),
-      transparent 36%
-    ),
+      transparent 36%),
     radial-gradient(circle farthest-side at 65% 45%, var(--b), transparent 50%),
     radial-gradient(circle farthest-side at 60% 65%, var(--c), transparent 50%);
 }
@@ -396,11 +400,9 @@ a.secondary-button:hover {
   --a: #eaf4ff;
   --b: #eef2ff;
   --c: #f0f2ff;
-  background: radial-gradient(
-      circle farthest-side at 28% 54%,
+  background: radial-gradient(circle farthest-side at 28% 54%,
       var(--a),
-      transparent 36%
-    ),
+      transparent 36%),
     radial-gradient(circle farthest-side at 65% 45%, var(--b), transparent 50%),
     radial-gradient(circle farthest-side at 60% 65%, var(--c), transparent 50%);
 }
@@ -409,11 +411,9 @@ a.secondary-button:hover {
   --a: #fde7f0;
   --b: #ffeef5;
   --c: #fff7fb;
-  background: radial-gradient(
-      circle farthest-side at 28% 54%,
+  background: radial-gradient(circle farthest-side at 28% 54%,
       var(--a),
-      transparent 36%
-    ),
+      transparent 36%),
     radial-gradient(circle farthest-side at 65% 45%, var(--b), transparent 50%),
     radial-gradient(circle farthest-side at 60% 65%, var(--c), transparent 50%);
 }
@@ -422,11 +422,9 @@ a.secondary-button:hover {
   --a: #ffd6d6;
   --b: #ffe5e5;
   --c: #ffeded;
-  background: radial-gradient(
-      circle farthest-side at 28% 54%,
+  background: radial-gradient(circle farthest-side at 28% 54%,
       var(--a),
-      transparent 36%
-    ),
+      transparent 36%),
     radial-gradient(circle farthest-side at 65% 45%, var(--b), transparent 50%),
     radial-gradient(circle farthest-side at 60% 65%, var(--c), transparent 50%);
 }
@@ -435,11 +433,9 @@ a.secondary-button:hover {
   --a: #fbfdfe;
   --b: #e5fbff;
   --c: #ddfaff;
-  background: radial-gradient(
-      circle farthest-side at 30% 50%,
+  background: radial-gradient(circle farthest-side at 30% 50%,
       var(--a),
-      transparent 40%
-    ),
+      transparent 40%),
     radial-gradient(circle farthest-side at 70% 40%, var(--b), transparent 50%),
     radial-gradient(circle farthest-side at 60% 60%, var(--c), transparent 50%);
 }
@@ -479,7 +475,7 @@ a.secondary-button:hover {
 
 .section-body {
   padding: 12px 0;
-  max-width: 768px;
+  max-width: 100%;
 }
 
 a.section-button {

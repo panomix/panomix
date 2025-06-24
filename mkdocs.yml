@@ -4,23 +4,46 @@ repo_name: panomix/panomix
 strict: true
 nav:
   - index.md
-  - Playbook:
-      - Overview: playbook/overview.md
-      - Features: playbook/features.md
-  - Swen AI:
-      - Overview: swen/overview.md
-      - Features: swen/features.md
-  - SocialBot:
-      - Overview: socialbot/overview.md
-      - Features: socialbot/features.md
-      - Client Cases: socialbot/clientcases.md
-  - Custom Apps:
-      - Overview: custom/overview.md
-      - Client Cases: custom/clientcases.md
-  - TikTok Marketing Partner:
-      - Overview: tiktok/overview.md
-  - Botpress Certified Partner:
-      - Overview: botpress/overview.md
+  - Client Cases:
+      # - Overview: clients/overview.md
+      - AI News Assistant:
+          - Overview: clients/news/news.md
+          - Features: clients/news/features.md
+      - AI SNS Manager:
+          - Overview: clients/socialbot/socialbot.md
+          - Features: clients/socialbot/features.md
+      - AI NewsChat:
+          - Overview: clients/newschat/newschat.md
+      - AI Manufacturing Assistant:
+          - Overview: clients/factory/factory.md
+          - Features: clients/factory/features.md
+
+  - Partnerships:
+      - TikTok Marketing Partner: partners/tiktok/overview.md
+      - Botpress Certified Partner: partners/botpress/overview.md
+  # - Consulting:
+  #     - Discover: consulting/discover.md
+  #     - Deliver: consulting/deliver.md
+
+  # - In-house Products:
+  #     - ATTN: products/attn.md
+  # - Playbook:
+  #     - Overview: playbook/overview.md
+  #     - Features: playbook/features.md
+  # - Swen AI:
+  #     - Overview: swen/overview.md
+  #     - Features: swen/features.md
+  # - SocialBot:
+  #     - Overview: socialbot/overview.md
+  #     - Features: socialbot/features.md
+  #     - Client Cases: socialbot/clientcases.md
+  # - Custom Apps:
+  #     - Overview: custom/overview.md
+  #     - Client Cases: custom/clientcases.md
+  # - TikTok Marketing Partner:
+  #     - Overview: tiktok/overview.md
+  # - Botpress Certified Partner:
+  #     - Overview: botpress/overview.md
 
 theme:
   name: material
