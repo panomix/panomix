@@ -4,6 +4,8 @@
 신뢰도 높은 기사 기반 답변과 AI 아나운서의 보도 영상을 넘나드는 다양한 정보 형태로 풍부하고 몰입감 있는 뉴스 소비 경험을 선사합니다.
 
 ![Product Image](images/newschatmain.png)
+<br/>
+
 뉴스챗 바로가기: [https://newschat.wikitree.co.kr/]
 
 ---
@@ -40,11 +42,11 @@
 - 뉴스챗으로 유입된 유저들이 다시 추가 기사 소비를 할 수 있는 트래픽 선순환 구조 확보
 - 클라이언트 및 뉴스챗 유저 피드백을 기반으로, 지속적인 업데이트와 콘텐츠 품질 향상으로 성장을 이어가는 중
 
+<br/>
 
 ---
-
 ## **기능 소개 Features** ##
-
+<br/>
 
 ### **<code style="color : lightskyblue">뉴스 기반 답변</code>** ###
 
@@ -98,6 +100,8 @@
 ### **<code style="color : green">여러개의 RAG 소스 기반의 답변 생성 과정 </code>** ###
   - 뉴스챗은 여러 개의 RAG(Retrieval-Augmented Generation)  소스를 기반으로 각 에이전트가 필요한 정보를 탐색하고 리트리브합니다. 이를 통해 기사와 관련된 배경지식, 맥락 정보, 시사적 흐름까지 폭넓게 반영된 응답을 만들어낼 수 있습니다.
 
+<br/>
+<br/>
 
 ![Product Image](images/newschat_tech.png)
 
