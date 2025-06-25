@@ -31,7 +31,7 @@ AI 기반 수집·필터링과 규칙화된 초안 생성을 구현하고, 기�
 
 ---
 
-## Performance
+### <code style="color : orangered">Performance</code> ###
 
 - 기자 1인당 하루 평균 기사 수 2배 이상 증가
 - 스웬이 생성한 기사로만 누적 1억 뷰 이상 기록
