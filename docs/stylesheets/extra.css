@@ -575,3 +575,21 @@ h3#mesop\.features\.theme\.ThemeVar {
   font-size: 0.8rem;
 }
 
+/* Highlight top-level product names (the label links that have children) */
+.md-nav__item--nested > .md-nav__link {
+  background-color: var(--panomix-blue); /* or your color */
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-weight: 600;
+  margin-top: 4px;
+  display: block;
+}
+
+/* Optional: change hover behavior too */
+.md-nav__item--nested > .md-nav__link:hover {
+  background-color: var(--panomix-green); /* highlight color on hover */
+  color: black;
+}
+
+
