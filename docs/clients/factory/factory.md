@@ -43,11 +43,11 @@
 
 ### **<code style="color : lightskyblue">선형 5단계 → 순환 2단계</code>** ###
 
-#### Process Before: 5-Step Multi-layered Process
+##### Process Before: 5-Step Multi-layered Process
 
 ![Product Image](images/Before.png)
 
-#### Process After: 2 Cyclic Processes
+##### Process After: 2 Cyclic Processes
 
 ![Product Image](images/After.png)
 
