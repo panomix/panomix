@@ -32,7 +32,7 @@
 
   
 <a href="../features" class="next-step">
-    Features
+    Features 기능 소개
 </a>
 
 
