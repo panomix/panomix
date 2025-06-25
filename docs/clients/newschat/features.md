@@ -19,7 +19,7 @@
 
   뉴스챗은 AI 답변으로 사실 전달을 넘어서, 이슈에 대한 배경, 의미, 시사점까지 자유롭게 서술하며, 뉴스를 입체적으로 바라볼 수 있는 지적 즐거움을 제공합니다.
 
-![Product Image](images/AIresponse)
+![Product Image](images/AIresponse.png)
 
 - **AI 아나운서 보도 영상**
 
