@@ -14,7 +14,7 @@ nav:
           - Features: clients/socialbot/features.md
       - NewsChat:
           - Overview: clients/newschat/newschat.md
-      - AI Manufacturing Assistant:
+      - Semiconductor AI Project:
           - Overview: clients/factory/factory.md
           - Features: clients/factory/features.md
 
