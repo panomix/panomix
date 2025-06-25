@@ -593,3 +593,11 @@ h3#mesop\.features\.theme\.ThemeVar {
   /* 필요하면 색상 조절 */
 }
 
+/* === Navigation indentations === */
+.md-nav--secondary .md-nav__link {
+  padding-left: 1.5rem;
+}
+
+.md-nav--secondary .md-nav--secondary .md-nav__link {
+  padding-left: 2.5rem;
+}
