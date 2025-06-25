@@ -45,7 +45,7 @@
 
 ---
 
-## Features 기능 소개 ##
+## 기능 소개 Features ##
 
 
 ### **<code style="color : lightskyblue">뉴스 기반 답변</code>** ###
