@@ -40,7 +40,6 @@ AI 기반 수집·필터링과 규칙화된 초안 생성을 구현하고, 기�
 - 트렌드 대응 속도 개선으로 더 많은 실시간 콘텐츠 생산 가능
 
 
-
 <a href="../features" class="next-step">
-    Features
+    Features 기능 소개
 </a>
