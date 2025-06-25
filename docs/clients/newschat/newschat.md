@@ -5,9 +5,7 @@
 
 >뉴스챗 바로가기: [https://newschat.wikitree.co.kr/]
 
-<div style="text-align: center;">
-  <img src="images/newschatmain.png" alt="Product Image" width="700" />
-</div>
+![Product Image](images/newschatmain.png)
 
 ---
 ### <code style="color : aquamarine">Discover</code>
