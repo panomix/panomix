@@ -7,7 +7,7 @@
       <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/kIkpnR-KD88?si=gAcIq4hVWC7RGnFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### <code style="color : aquamarine">Discover</code> ###
+### <code style="color : aquamarine">AI 과제: Discover</code> ###
 
 클라이언트는 뉴스를 다루는 미디어 기업입니다. 파노믹스는 클라이언트사 기자들의 기사 작성 프로세스를 분석한 후 아래와 같은 문제를 도출하였습니다.
 
@@ -24,14 +24,14 @@
 
 ---
 
-### <code style="color : cyan">Deliver</code> ###
+### <code style="color : cyan">AI 솔루션: Deliver</code> ###
 
 파노믹스는 기자들의 기사 작성 프로세스를 효율화하기 위해, AI 기반 자동화 시스템을 새롭게 설계하고 구현했습니다.
 AI 기반 수집·필터링과 규칙화된 초안 생성을 구현하고, 기자가 편집하기 쉬운 협업 인터페이스를 제공해 생산성과 품질을 동시에 높였습니다.
 
 ---
 
-### <code style="color : orangered">Performance</code> ###
+### <code style="color : orangered">성과 Performance</code> ###
 
 - 기자 1인당 하루 평균 기사 수 2배 이상 증가
 - 스웬이 생성한 기사로만 누적 1억 뷰 이상 기록
