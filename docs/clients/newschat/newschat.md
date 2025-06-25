@@ -54,7 +54,7 @@
 
 ---
 
-## Performance
+## ❇️ Performance
 
 - MAU 100만 명 돌파 (5개월)
 - 세션당 기사 조회 수 & 광고 수익 증가
