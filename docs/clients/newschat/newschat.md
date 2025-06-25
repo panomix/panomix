@@ -6,7 +6,7 @@
 >뉴스챗 바로가기: https://newschat.wikitree.co.kr/
 
 ---
-<code style="color : aquamarine">Discover</code>
+### <code style="color : aquamarine">Discover</code>
 
 클라이언트는 기존 뉴스 플랫폼의 한계를 다음과 같이 인식하고 있었습니다:
 
@@ -24,7 +24,7 @@
 
 ---
 
-<code style="color : cyan">Deliver</code>
+### <code style="color : cyan">Deliver</code>
 
 파노믹스는 클라이언트가 직면하고 있는 문제를 해소하기 위해, 유저와 AI의 뉴스 채팅을 목표로 한 **NewsChat 뉴스챗**을 설계하고 구현했습니다.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Performance
+### <code style="color : orangered">Performance</code>
 
 - MAU 100만 명 돌파 (5개월)
 - 세션당 기사 조회 수 & 광고 수익 증가
