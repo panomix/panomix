@@ -9,7 +9,6 @@
 
 ---
 
-## **AI Consulting**
 ### <code style="color : aquamarine">Discover</code> ###
 
 클라이언트는 정치, 경제 등 민감한 주제를 다루는 SNS 채널을 운영하고 있습니다.  
