@@ -7,7 +7,7 @@
 
 ---
 
-## 🟢 Discover
+## <code style="color : cyan”>Discover</code>
 
 클라이언트는 기존 뉴스 플랫폼의 한계를 다음과 같이 인식하고 있었습니다:
 
