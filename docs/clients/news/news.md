@@ -8,7 +8,7 @@
 </div>
 
 ## **AI Consulting**
-<code style="color : aquamarine">Discover</code>
+### <code style="color : aquamarine">Discover</code> ###
 
 클라이언트는 뉴스를 다루는 미디어 기업입니다. 파노믹스는 클라이언트사 기자들의 기사 작성 프로세스를 분석한 후 아래와 같은 문제를 도출하였습니다.
 
@@ -22,7 +22,7 @@
 
 ---
 
-<code style="color : cyan">Deliver</code>
+### <code style="color : cyan">Deliver</code> ###
 
 파노믹스는 기자들의 기사 작성 프로세스를 효율화하기 위해, AI 기반 자동화 시스템을 새롭게 설계하고 구현했습니다.
 
