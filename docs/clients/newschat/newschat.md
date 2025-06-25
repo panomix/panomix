@@ -41,7 +41,7 @@
 - 클라이언트 및 뉴스챗 유저 피드백을 기반으로, 지속적인 업데이트와 콘텐츠 품질 향상으로 성장을 이어가는 중
 
 <a href="../features" class="next-step">
-    Features
+    Features 기능 소개
 </a>
 
 ---
