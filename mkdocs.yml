@@ -6,16 +6,16 @@ nav:
   - index.md
   - Client Cases:
       # - Overview: clients/overview.md
-      - 스웬 Swen AI:
+      - 스웬 Swen AI: clients/news/news.md
             - Overview: clients/news/news.md
             - Features: clients/news/features.md
-      - 소셜봇 SocialBot:
+      - 소셜봇 SocialBot: clients/socialbot/socialbot.md
             - Overview: clients/socialbot/socialbot.md
             - Features: clients/socialbot/features.md
-      - 뉴스챗 NewsChat:
+      - 뉴스챗 NewsChat: clients/newschat/newschat.md
             - Overview: clients/newschat/newschat.md
             - Features: clients/newschat/features.md
-      - Semiconductor AI Project:
+      - Semiconductor AI Project: clients/factory/factory.md
             - Overview: clients/factory/factory.md
             - Features: clients/factory/features.md
 
