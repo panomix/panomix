@@ -9,7 +9,7 @@
 뉴스챗 바로가기: [https://newschat.wikitree.co.kr/]
 
 ---
-### <code style="color : aquamarine">Discover</code>
+### <code style="color : aquamarine">AI 과제: Discover</code>
 
 클라이언트는 기존 뉴스 플랫폼의 한계를 다음과 같이 인식하고 있었습니다:
 
@@ -27,7 +27,7 @@
 
 ---
 
-### <code style="color : cyan">Deliver</code>
+### <code style="color : cyan">AI 솔루션: Deliver</code>
 
 파노믹스는 클라이언트가 직면하고 있는 문제를 해소하기 위해, 유저와 AI의 뉴스 채팅을 목표로 한 **NewsChat 뉴스챗**을 설계하고 구현했습니다.
 
