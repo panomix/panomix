@@ -1,5 +1,11 @@
 # 감소하는 SNS 오가닉 노출을 소비자와 AI의 인터랙션 유도로 반등시킨 소셜봇
 
+<div class="left">
+      <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/T5rBtcD8A_Q?si=4gY7EtuXHBh9j0um" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
+
 ## 🟢 Discover
 
 클라이언트는 정치, 경제 등 민감한 주제를 다루는 SNS 채널을 운영하고 있었습니다.  
@@ -44,10 +50,5 @@
 - **댓글을 통한 사용자 반응 유도 및 악성 대응 리스크 감소**
 - **기존 콘텐츠 재활성화 및 알고리즘 노출 최적화에 기여**
 
----
-
-<div class="left">
-      <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/T5rBtcD8A_Q?si=4gY7EtuXHBh9j0um" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
 ---
