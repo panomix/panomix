@@ -53,7 +53,7 @@ nav:
 theme:
   name: material
   custom_dir: docs/theme
-  logo: assets/logo.png
+  logo: assets/whitelogo.png
   favicon: assets/favicon.ico
   font:
     text: Inter
