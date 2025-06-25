@@ -49,7 +49,7 @@
 
 ##### Process After: 2 Cyclic Processes
 
-![Product Image](images/After.png)
+![Product Image](images/jcetprocess.png)
 
 ### **<code style="color : lightskyblue">커스텀 GPT 기반 UI</code>** ###
 
