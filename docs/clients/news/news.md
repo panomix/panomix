@@ -7,8 +7,8 @@
       <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/kIkpnR-KD88?si=gAcIq4hVWC7RGnFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-
-## 🟢 Discover
+## AI Consulting
+<code style="color : aquamarine">Discover</code>
 
 클라이언트는 뉴스를 다루는 미디어 기업입니다. 파노믹스는 클라이언트사 기자들의 기사 작성 프로세스를 분석한 후 아래와 같은 문제를 도출하였습니다.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🔵 Deliver
+<code style="color : cyan">Deliver</code>
 
 파노믹스는 기자들의 기사 작성 프로세스를 효율화하기 위해, AI 기반 자동화 시스템을 새롭게 설계하고 구현했습니다.
 
