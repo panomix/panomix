@@ -34,7 +34,7 @@
 
 ---
 
-## Performance
+### <code style="color : orangered">Performance</code>
 
 - 추가 인력 채용 없이도 운영비용 최적화 달성
 - 업무 프로세스 단축으로 생산 효율성 증대
