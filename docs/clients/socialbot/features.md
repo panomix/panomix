@@ -35,9 +35,3 @@ AI의 톤앤 매너를 각각의 브랜드에 맞게 조정할 수 있는 테스
 파노믹스 소셜봇은 Microsoft Azure 클라우드 기반으로, 대규모 언어 모델(LLMs)의 활용을 위해 Azure OpenAI와 연결됩니다.
 
 Azure OpenAI는 고객 데이터의 보안과 정보보호에 최우선해 OpenAI를 포함한 제3자에 의해 데이터가 사용하지 않도록다양한 안전장치를 보장합니다.
-
-## 고객 성공 사례
-
-<a href="../clientcases" class="next-step">
-    Client Cases
-</a>
