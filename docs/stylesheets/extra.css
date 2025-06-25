@@ -574,3 +574,24 @@ a.next-step:hover {
 h3#mesop\.features\.theme\.ThemeVar {
   font-size: 0.8rem;
 }
+
+/* Color for Swen AI nav */
+.md-nav__item a[href$="clients/news/news/"] {
+  color: #18BBED !important; /* blue */
+}
+
+/* Color for SocialBot nav */
+.md-nav__item a[href$="clients/socialbot/socialbot/"] {
+  color: #8F34FF !important; /* purple */
+}
+
+/* Color for NewsChat nav */
+.md-nav__item a[href$="clients/newschat/newschat/"] {
+  color: #06EE94 !important; /* mint */
+}
+
+/* Color for Semiconductor AI Project nav */
+.md-nav__item a[href$="clients/factory/factory/"] {
+  color: #FF2869 !important; /* magenta */
+}
+
