@@ -579,7 +579,7 @@ h3#mesop\.features\.theme\.ThemeVar {
 /* Dark mode: swap to dark logo */
 @media (prefers-color-scheme: dark) {
   .md-header__logo img {
-    content: url(assets/logoBlack.png);
+    content: url(assets/logoblack.png);
   }
 }
 
