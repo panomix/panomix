@@ -24,7 +24,7 @@
 
 ---
 
-## 🔵 Deliver
+## <code style="color : cyan">Deliver</code>
 
 파노믹스는 클라이언트가 직면하고 있는 문제를 해소하기 위해, 유저와 AI의 뉴스 채팅을 목표로 한 **NewsChat 뉴스챗**을 설계하고 구현했습니다.
 
