@@ -6,13 +6,13 @@ nav:
   - index.md
   - Client Cases:
       # - Overview: clients/overview.md
-      - AI News Assistant:
+      - Swen AI:
           - Overview: clients/news/news.md
           - Features: clients/news/features.md
-      - AI SNS Manager:
+      - SocialBot:
           - Overview: clients/socialbot/socialbot.md
           - Features: clients/socialbot/features.md
-      - AI NewsChat:
+      - NewsChat:
           - Overview: clients/newschat/newschat.md
       - AI Manufacturing Assistant:
           - Overview: clients/factory/factory.md
