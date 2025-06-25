@@ -4,13 +4,13 @@ repo_name: panomix/panomix
 strict: true
 nav:
   - index.md
-  - Client Cases:
+  - 클라이언트 사례 Client Cases:
       - 스웬 Swen: clients/news/news.md
       - 소셜봇 SocialBot: clients/socialbot/socialbot.md
       - 뉴스챗 NewsChat: clients/newschat/newschat.md
       - 반도체 Semiconductor AI Project: clients/factory/factory.md
 
-  - Partnerships:
+  - 파트너십 Partnerships:
       - TikTok Marketing Partner: partners/tiktok/overview.md
       - Botpress Certified Partner: partners/botpress/overview.md
   # - Consulting:
