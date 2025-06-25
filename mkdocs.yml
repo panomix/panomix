@@ -38,6 +38,10 @@ nav:
   #     - Overview: socialbot/overview.md
   #     - Features: socialbot/features.md
   #     - Client Cases: socialbot/clientcases.md
+  # - NewsChat:
+  #     - Overview: newschat/overview.md
+  #     - Features: newschat/features.md
+  #     - Client Cases: newschat/clientcases.md
   # - Custom Apps:
   #     - Overview: custom/overview.md
   #     - Client Cases: custom/clientcases.md
