@@ -574,3 +574,16 @@ a.next-step:hover {
 h3#mesop\.features\.theme\.ThemeVar {
   font-size: 0.8rem;
 }
+
+/* Default: show light logo */
+.md-header__logo img {
+  content: url(assets/whitelogo.png);
+}
+
+/* Dark mode: swap to dark logo */
+@media (prefers-color-scheme: dark) {
+  .md-header__logo img {
+    content: url(assets/logoBlack.png);
+  }
+}
+
