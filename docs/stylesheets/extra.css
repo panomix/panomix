@@ -604,7 +604,6 @@ h3#mesop\.features\.theme\.ThemeVar {
 
 /* Highlight top-level product names on hover */
 .md-nav--primary .md-nav__item > .md-nav__link:hover {
-  background-color: var(--md-default-bg-color--lighter); /* light mode hover */
   color: var(--md-primary-fg-color); /* optional, set your desired hover text color */
   border-radius: 4px;
   padding-left: 4px; /* optional padding for indent effect */
@@ -612,6 +611,5 @@ h3#mesop\.features\.theme\.ThemeVar {
 
 /* Optional dark mode hover color */
 [data-md-color-scheme='mesop-dark'] .md-nav--primary .md-nav__item > .md-nav__link:hover {
-  background-color: var(--md-default-bg-color--light); /* dark mode hover color */
   color: var(--md-accent-fg-color); /* optional, set a bright color for dark mode hover text */
 }
