@@ -577,13 +577,13 @@ h3#mesop\.features\.theme\.ThemeVar {
 
 /* Default: show light logo */
 .md-header__logo img {
-  content: url(assets/whitelogo.png);
+  content: url(assets/logoBlack.png);
 }
 
 /* Dark mode: swap to dark logo */
 @media (prefers-color-scheme: dark) {
   .md-header__logo img {
-    content: url(assets/logoBlack.png);
+    content: url(assets/whitelogo.png);
   }
 }
 
