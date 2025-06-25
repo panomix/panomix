@@ -5,7 +5,7 @@
 ![Product Image](images/StatsChip.png)
 
 
-### <code style="color : aquamarine">Discover</code> 
+### <code style="color : aquamarine">AI 과제: Discover</code> 
 
 클라이언트는 공정 중 문제가 발생할 경우 작업자가 매번 담당 엔지니어에게 관련 정보를 전달하고 지침을 받거나, 매뉴얼을 일일이 확인해야만 공정 재개가 가능했습니다.
 파노믹스는 클라이언트사의 공정 업무 프로세스를 분석한 후 아래와 같은 문제를 도출하였습니다:
@@ -24,13 +24,13 @@
 
 ---
 
-### <code style="color : cyan">Deliver</code>
+### <code style="color : cyan">AI 솔루션: Deliver</code>
 
 파노믹스는 커스텀 AI의 도입을 통해 작업자의 업무 프로세스를 단축 시키기 위해, 즉시 관련정보를 확인하고 정확한 대응 방안을 제공하도록 시스템을 개선하였고, 이를 통해 공정률 향상과 인건비 절감 등의 사업 성과를 기대할 수 있었습니다.
 
 ---
 
-### <code style="color : orangered">Performance</code>
+### <code style="color : orangered">성과 Performance</code>
 
 - 추가 인력 채용 없이도 운영비용 최적화 달성
 - 업무 프로세스 단축으로 생산 효율성 증대
