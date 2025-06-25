@@ -28,10 +28,6 @@
 
 파노믹스는 커스텀 AI의 도입을 통해 작업자의 업무 프로세스를 단축 시키기 위해, 즉시 관련정보를 확인하고 정확한 대응 방안을 제공하도록 시스템을 개선하였고, 이를 통해 공정률 향상과 인건비 절감 등의 사업 성과를 기대할 수 있었습니다.
 
-<a href="../features" class="next-step">
-    Features
-</a>
-
 ---
 
 ### <code style="color : orangered">Performance</code>
@@ -39,3 +35,7 @@
 - 추가 인력 채용 없이도 운영비용 최적화 달성
 - 업무 프로세스 단축으로 생산 효율성 증대
 - 공정 중단 없이 연속 가동률 대폭 향상
+
+<a href="../features" class="next-step">
+    Features 기능 소개
+</a>
