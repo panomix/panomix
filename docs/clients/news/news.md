@@ -1,6 +1,6 @@
 # 추가 인력 고용 비용을 절감한 뉴스 어시스턴트, 스웬
 
-스웬은 다양한 소스로부터 기사 아이디어를 제공하고, 기사 초안을 작성하며, 기사의 데스킹까지 관리할 수 있도록 돕는 뉴스 생성 어시스턴트입니다. 기자들의 업무 프로세스를 지원하는 AI 뉴스 어시스턴트로서, 반복적이고 시간 소모적인 작업을 자동화하여 추가 인력 채용에 드는 비용을 효과적으로 절감합니다.
+스웬은 다양한 소스로부터 기사 아이디어를 제공하고, 기사 초안을 작성하며, 기사의 데스킹까지 관리할 수 있도록 돕는 뉴스 생성 어시스턴트입니다. 또한, 스웬은 반복적이고 시간 소모적인 작업을 자동화하여 추가 인력 채용에 드는 비용을 효과적으로 절감합니다.
 
 <div class="left">
       <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/kIkpnR-KD88?si=gAcIq4hVWC7RGnFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
