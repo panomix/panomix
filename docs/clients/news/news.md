@@ -2,6 +2,11 @@
 
 스웬은 다양한 소스로부터 기사 아이디어를 제공하고, 기사 초안을 작성하며, 기사의 데스킹까지 관리할 수 있도록 돕는 뉴스 생성 어시스턴트입니다. 기자들의 업무 프로세스를 지원하는 AI 뉴스 어시스턴트로서, 반복적이고 시간 소모적인 작업을 자동화하여 추가 인력 채용에 드는 비용을 효과적으로 절감합니다.
 
+<div class="left">
+      <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/kIkpnR-KD88?si=gAcIq4hVWC7RGnFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 ## 🟢 Discover
 
 클라이언트는 뉴스를 다루는 미디어 기업으로,다음과 같은 문제들로 인해 한계를 마주하고 있었습니다. 파노믹스는 클라이언트사 기자들의 기사 작성 프로세스를 분석한 후 아래와 같은 문제를 도출하였습니다:
