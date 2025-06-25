@@ -6,7 +6,6 @@
 >뉴스챗 바로가기: https://newschat.wikitree.co.kr/
 
 ---
-## AI Consulting
 <code style="color : aquamarine">Discover</code>
 
 클라이언트는 기존 뉴스 플랫폼의 한계를 다음과 같이 인식하고 있었습니다:
