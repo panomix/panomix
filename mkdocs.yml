@@ -7,17 +7,17 @@ nav:
   - Client Cases:
       # - Overview: clients/overview.md
       - Swen AI:
-          - Overview: clients/news/news.md
-          - Features: clients/news/features.md
+            - Overview: clients/news/news.md
+            - Features: clients/news/features.md
       - SocialBot:
-          - Overview: clients/socialbot/socialbot.md
-          - Features: clients/socialbot/features.md
+            - Overview: clients/socialbot/socialbot.md
+            - Features: clients/socialbot/features.md
       - NewsChat:
-          - Overview: clients/newschat/newschat.md
-          - Features: clients/newschat/features.md
+            - Overview: clients/newschat/newschat.md
+            - Features: clients/newschat/features.md
       - Semiconductor AI Project:
-          - Overview: clients/factory/factory.md
-          - Features: clients/factory/features.md
+            - Overview: clients/factory/factory.md
+            - Features: clients/factory/features.md
 
   - Partnerships:
       - TikTok Marketing Partner: partners/tiktok/overview.md
