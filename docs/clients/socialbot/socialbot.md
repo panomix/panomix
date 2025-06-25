@@ -30,7 +30,7 @@
 파노믹스는 클라이언트를 위한 맞춤형 **소셜봇**를 설계하고 배포했습니다. AI 전담 계정이 뉴스 맥락을 파악해 자동 댓글을 남기고, 관리자 태그로 쉽게 제어할 수 있어 사용자 참여를 유도하고 운영 효율을 높이는 방식을 구현했습니다.
 
 
-### <code style="color : orangered">Performance</code>
+### <code style="color : orangered">Performance</code> ###
 
 - **소셜봇이 작성한 댓글 수: 78,000건 이상**
 - **자연 노출(Organic Impression) 9.2% 이상 증가**
