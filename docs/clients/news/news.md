@@ -40,7 +40,7 @@ AI 기반 수집·필터링과 규칙화된 초안 생성을 구현하고, 기�
 
 
 
-## 기능 소개 Features ##
+## **기능 소개 Features** ##
 
 ### **<code style="color : lightskyblue">다양한 뉴스 소스 제공</code>** ###
 
