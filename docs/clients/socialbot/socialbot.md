@@ -9,7 +9,7 @@
 
 ---
 
-### <code style="color : aquamarine">Discover</code> ###
+### <code style="color : aquamarine">AI 과제: Discover</code> ###
 
 클라이언트는 정치, 경제 등 민감한 주제를 다루는 SNS 채널을 운영하고 있습니다.  
 하지만 다음과 같은 문제로 인해 **소셜 채널의 유기적 노출(Organic Impression)이 지속적으로 하락**하고 있었습니다:
@@ -25,7 +25,7 @@
 
 ---
 
-### <code style="color : cyan">Deliver</code> ###
+### <code style="color : cyan">AI 솔루션: Deliver</code> ###
 
 파노믹스는 클라이언트를 위한 맞춤형 **소셜봇**를 설계하고 배포했습니다. AI 전담 계정이 뉴스 맥락을 파악해 자동 댓글을 남기고, 관리자 태그로 쉽게 제어할 수 있어 사용자 참여를 유도하고 운영 효율을 높이는 방식을 구현했습니다.
 
