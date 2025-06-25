@@ -45,11 +45,11 @@
 
 ##### Process Before: 5-Step Multi-layered Process
 
-![Product Image](images/Before.png)
+![Product Image](images/jcetprocess.png)
 
 ##### Process After: 2 Cyclic Processes
 
-![Product Image](images/jcetprocess.png)
+![Product Image](images/After.png)
 
 ### **<code style="color : lightskyblue">커스텀 GPT 기반 UI</code>** ###
 
