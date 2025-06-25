@@ -8,7 +8,7 @@
 
   또한, 뉴스챗의 답변은 사용자 친화적인 마크다운 기반 포맷으로 제공되어 가독성이 뛰어나며, 유저는 핵심 정보를 빠르게 파악할 수 있습니다.
 
-![Product Image](images/newsresponse)
+![Product Image](images/newsresponse.png)
 
 - **뉴스 답변 관련 기사**
 
