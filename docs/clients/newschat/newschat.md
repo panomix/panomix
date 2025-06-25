@@ -47,6 +47,7 @@
 
 ## Features 기능 소개 ##
 
+
 ### **<code style="color : lightskyblue">뉴스 기반 답변</code>** ###
 
 
@@ -58,6 +59,7 @@
 
 ![Product Image](images/newsresponse.png)
 
+---
  
 ### **<code style="color : lightskyblue">AI 답변</code>** ###
 
@@ -65,11 +67,15 @@
 
 ![Product Image](images/AIresponse.png)
 
+---
+
 ### **<code style="color : lightskyblue">AI 아나운서 보도 영상</code>** ###
 
   뉴스챗의 답변은 텍스트뿐 아니라, 매력적인 AI 아나운서의 뉴스 브리핑 영상과 함께 제공됩니다. 중요한 이슈를 영상으로 빠르게 요약해주며, 직관적인 이해와 몰입감 있는 뉴스 소비를 가능하게 합니다.
 
 ![Product Image](images/aivideo.png)
+
+---
 
 ### **<code style="color : lightskyblue">통합형 뉴스 포털 기능</code>** ###
 
@@ -77,6 +83,7 @@
   
 ![Product Image](images/portal.png)
 
+---
 
 ### **<code style="color : lightskyblue">관련 기사</code>** ###
 
