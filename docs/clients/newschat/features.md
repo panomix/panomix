@@ -1,4 +1,4 @@
-- ### **<code style="color : lightskyblue">뉴스 기반 답변</code>** ###
+### **<code style="color : lightskyblue">뉴스 기반 답변</code>** ###
 
 
   뉴스챗은 신뢰도 높은 뉴스만을 기반으로 답변을 생성합니다. 궁금증이 파생된 원본 기사의 문맥을 분석해, 키워드 검색이 아닌 정확하고 연결된 답변을 제공합니다.
@@ -10,25 +10,25 @@
 ![Product Image](images/newsresponse.png)
 
  
-- ### **<code style="color : lightskyblue">AI 답변</code>** ###
+### **<code style="color : lightskyblue">AI 답변</code>** ###
 
   뉴스챗은 AI 답변으로 사실 전달을 넘어서, 이슈에 대한 배경, 의미, 시사점까지 자유롭게 서술하며, 뉴스를 입체적으로 바라볼 수 있는 지적 즐거움을 제공합니다.
 
 ![Product Image](images/AIresponse.png)
 
-- ### **<code style="color : lightskyblue">AI 아나운서 보도 영상</code>** ###
+### **<code style="color : lightskyblue">AI 아나운서 보도 영상</code>** ###
 
   뉴스챗의 답변은 텍스트뿐 아니라, 매력적인 AI 아나운서의 뉴스 브리핑 영상과 함께 제공됩니다. 중요한 이슈를 영상으로 빠르게 요약해주며, 직관적인 이해와 몰입감 있는 뉴스 소비를 가능하게 합니다.
 
 ![Product Image](images/aivideo.png)
 
-- ### **<code style="color : lightskyblue">통합형 뉴스 포털 기능</code>** ###
+### **<code style="color : lightskyblue">통합형 뉴스 포털 기능</code>** ###
 
   뉴스챗의 ‘실시간’ 및 ‘피드’ 페이지에서는 여러 기사 기반 궁금증과 이슈를 확인할 수 있어,  새로운 형태의 뉴스 노출 창구이자 독립적인 포털 플랫폼으로 기능하기도 합니다.
   
 ![Product Image](images/portal.png)
 
 
-- ### **<code style="color : lightskyblue">관련 기사</code>** ###
+### **<code style="color : lightskyblue">관련 기사</code>** ###
 
   뉴스 답변 하단에 노출되는 관련 기사들은 유저가 타 기사로 자연스럽게 유도될 수 있도록 설계되어있습니다. 이를 통해 유저가 기사와 뉴스챗을 자유롭게 오가며, 자연스러운 트래픽 선순환 구조를 형성합니다. 
