@@ -36,7 +36,7 @@
 </a>
 
 
-## ❇️ Performance
+## Performance
 
 - **소셜봇이 작성한 댓글 수: 78,000건 이상**
 - **자연 노출(Organic Impression) 9.2% 이상 증가**
