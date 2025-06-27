@@ -1,4 +1,4 @@
-# Our Approach:AI Consulting 
+# Our Approach: AI Consulting 
 파노믹스의 AI 컨설팅 서비스는 2가지 단계로 나뉩니다. 
 
 ## DISCOVER ##
