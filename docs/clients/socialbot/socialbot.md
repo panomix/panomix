@@ -7,6 +7,9 @@
       <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/T5rBtcD8A_Q?si=4gY7EtuXHBh9j0um" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+
+[소셜봇 프로필 보기]([https://newschat.wikitree.co.kr](https://www.instagram.com/wikitree.ai/?hl=en))
+
 ---
 
 ### <code style="color : aquamarine">AI 과제: Discover</code> ###
