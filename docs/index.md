@@ -42,7 +42,7 @@ hide:
     You can find out more on our products & services.
   </div>
   <div class="header-buttons">
-    <a class="primary-button" onClick="sendEmail()">상담하기</a>
+    <a class="primary-button" onClick="sendEmail()">문의하기</a>
   </div>
 </header>
 
