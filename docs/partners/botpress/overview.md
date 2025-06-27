@@ -2,7 +2,7 @@
 
 파노믹스는 생성형AI 기반의 챗봇 빌더 플랫폼을 리드하는 봇프레스의 Certified Expert입니다. 생성형 AI 기반의 챗봇 빌더 봇프레스 활용을 원하시면 파노믹스에게 문의하세요.
 
-![Product Image](images/Botpress.png){style="margin-top: 20px"}
+![Product Image](images/botpress.png){style="margin-top: 20px"}
 
 ## Free Webinar
 
