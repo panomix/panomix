@@ -6,7 +6,7 @@
 ![Product Image](images/newschatmain.png)
 <br/>
 
-뉴스챗 바로가기: [https://newschat.wikitree.co.kr]
+[뉴스챗 바로가기](https://newschat.wikitree.co.kr)
 
 ---
 ### <code style="color : aquamarine">AI 과제: Discover</code>
