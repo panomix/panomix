@@ -21,6 +21,7 @@ ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 �
 
 
   콘텐츠 내용을 파악한 후, 본문에서 핵심 키워드를 셀렉하여 자동으로 태그를 삽입합니다.
+<br/>
 ![Product Image](images/Smart_tag.png)
 
 ---
@@ -28,6 +29,7 @@ ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 �
 ### **<code style="color : lightskyblue">이탈없는 실시간 AI 답변</code>** ###
 
   키워드를 클릭하면 관련 질문이 생성되고, 기사 문맥을 바탕으로 실시간 답변이 생성됩니다.
+<br/>
 ![Product Image](images/AI_response.png)
 
 ---
@@ -35,6 +37,7 @@ ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 �
 ### **<code style="color : lightskyblue">추천 질문 & 사용자 검색</code>** ###
 
   독자가 더 깊이 있는 탐색을 할 수 있도록 주제와 관련된 후속 질문을 자동 생성합니다. 또한, 검색창을 제공하여 독자가 추가로 궁금한 내용을 입력할시  AI가 즉시 답변을 할 수 있습니다.
+<br/>
 ![Product Image](images/ADK_Searches.png)
 
 
