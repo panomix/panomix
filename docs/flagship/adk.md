@@ -2,6 +2,10 @@
 
 ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 인터랙션을 제공해 콘텐츠 몰입도와 체류시간을 효과적으로 증가시킵니다.
 
+<div class="left">
+<iframe width="655" height="1165" src="https://www.youtube.com/embed/hRPxOj6KHJg" title="[파노믹스] ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 최적의 유저 경험을 위한 AI 서비스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 ### <code style="color : aquamarine">ADK는 이런 기업/단체를 위해 설계되었습니다.</code>
 
