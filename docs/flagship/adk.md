@@ -51,7 +51,11 @@ ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 �
 
 
 ---
+## **ADK Prototype** ##
 
+![Product Image](images/ADK_Prototype.png)
+
+---
 ## **ADK is about ...** ##
  **<code style="color : green">...expanding</code> user experience.**
  **<code style="color : green">확장</code> - 기존 콘텐츠 환경은 유지하면서, 별도의 플랫폼 이동 없이 AI로만 확장하는 서비스**
