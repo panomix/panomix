@@ -58,6 +58,7 @@
 ---
 ## **ADK is about ...** ##
  **<code style="color : green">...expanding</code> user experience.**
+ 
  **<code style="color : green">확장</code> - 기존 콘텐츠 환경은 유지하면서, 별도의 플랫폼 이동 없이 AI로만 확장하는 서비스**
 
 사용자가 머무는 웹페이지 안에 AI를 자연스럽게 심어,점보 탐색과 대화를 위한 새로운 경험을 해당 콘텐츠 흐름 안에서 확장합니다.
@@ -67,6 +68,7 @@
 + 별도의 플랫폼 구축없이, 기존 서비스 위에서 확장되는 가장 자연스러운 서비스 형태
 
 **<code style="color : green">...enhancing</code> user experience.**
+
 **<code style="color : green">고도화</code> - 핵심 키워드를 스캐닝 한 후, 문맥 기반의 궁금증과 AI가 생성하는 답변 제공**
 
 사용자의 궁금증이 없어도, 진정한 고도화를 통해 사용자가 읽고 있는 콘텐츠와 자연스럽게 연결된 가장 관련성 높은 키워드와 질문을 생성하여, 사용자 몰입을 최대한 해치지 않으며 유용한 정보를 제공합니다.
@@ -76,6 +78,7 @@
 + 콘텐츠 이해도와 몰입도 극대화
 
 **<code style="color : green">...engaging</code> user experience.**
+
 **<code style="color : green">인터랙션</code> - 유저의 탐색의지를 자극하며, 능동적인 상호작용으로 이어지도록 인터랙션 설계**
 
 기존의 단순한 정보 소비를 넘어, 사용자가 AI와 능동적으로 상호작용하도록 유도하는 경험을 설계합니다.
