@@ -5,7 +5,6 @@ strict: true
 nav:
   - index.md
   - ADK : flagship/adk.md
-  - Our Framework: consulting/deliver.md
   - 클라이언트 사례 Client Cases:
       - 스웬 Swen: clients/news/news.md
       - 소셜봇 SocialBot: clients/socialbot/socialbot.md
@@ -15,6 +14,8 @@ nav:
   - 파트너십 Partnerships:
       - TikTok Marketing Partner: partners/tiktok/overview.md
       - Botpress Certified Partner: partners/botpress/overview.md
+
+  - Our Framework: consulting/deliver.md
   # - Consulting:
   #     - Discover: consulting/discover.md
   #     - Deliver: consulting/deliver.md
