@@ -110,6 +110,3 @@
 
 
 
-
-문의: info@panomix.io
-<br/>
