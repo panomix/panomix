@@ -5,7 +5,7 @@ strict: true
 nav:
   - index.md
   - ADK : flagship/adk.md
-  - AI 컨설팅: consulting/deliver.md
+  - Our Framework: consulting/deliver.md
   - 클라이언트 사례 Client Cases:
       - 스웬 Swen: clients/news/news.md
       - 소셜봇 SocialBot: clients/socialbot/socialbot.md
