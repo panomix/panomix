@@ -80,7 +80,7 @@ ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 �
 
 ---
 
-## **ADK 트래픽별 월별 패키지 안내 Pricing** ##
+## ** 지금 ADK 도입을 시작해보세요.** ##
 ![Product Image](images/ADK_Pricing.png)
 <br/>
 
