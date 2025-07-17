@@ -2,7 +2,7 @@
 
 ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 인터랙션을 제공해 콘텐츠 몰입도와 체류시간을 효과적으로 증가시킵니다.
 
-### ADK 데모영상 ###
+### ADK 데모 영상: 콘텐츠에 자연스럽게 녹아드는 AI, 직접 확인해보세요. ###
 <div class="left">
 <iframe width="500" height="800"  src="https://www.youtube.com/embed/hRPxOj6KHJg" title="[파노믹스] ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 최적의 유저 경험을 위한 AI 서비스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -51,7 +51,7 @@ ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 �
 
 
 ---
-## **ADK Prototype** ##
+## **ADK Prototype: 한눈에 보는 ADK 작동방식** ##
 
 ![Product Image](images/ADK_Prototype.png)
 
@@ -105,7 +105,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
 
 
 ---
-## **지금 ADK 도입을 시작해보세요** ##
+## **지금 ADK 도입을 시작해보세요.** ##
 ![Product Image](images/ADK_Pricing.png)
 <br/>
 
