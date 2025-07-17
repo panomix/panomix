@@ -39,6 +39,8 @@
 ![Product Image](images/ADK_Questions.png)
 
 ---
+
+
  
 ### **<code style="color : lightskyblue">이탈없는 실시간 AI 답변</code>** ###
   관련 질문에 대해,  기사 문맥을 바탕으로 실시간 답변이 생성됩니다.
@@ -48,6 +50,9 @@
 ![Product Image](images/ADK_Responses.png)
 
 ---
+
+
+
 
 ### **<code style="color : lightskyblue">추천 질문 & 사용자 검색</code>** ###
   독자가 더 깊이 있는 탐색을 할 수 있도록 주제와 관련된 후속 질문을 자동 생성합니다. 또한, 검색창을 제공하여 독자가 추가로 궁금한 내용을 입력할시  AI가 즉시 답변을 할 수 있습니다.
