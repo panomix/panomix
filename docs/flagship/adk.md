@@ -105,9 +105,11 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
 
 
 ---
-## **지금 ADK 도입을 시작해보세요.** ##
+## **Pricing: 지금 ADK 도입을 시작해보세요.** ##
 ![Product Image](images/ADK_Pricing.png)
+문의: info@panomix.io
 <br/>
+
 
 
 
