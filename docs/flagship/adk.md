@@ -25,7 +25,7 @@
 ### **<code style="color : lightskyblue">AI 스마트 태깅</code>** ###
 
 
-  콘텐츠 내용을 파악한 후, 본문에서 핵심 키워드를 셀렉하여 자동으로 태그를 삽입합니다.
+  콘텐츠 본문에서 자동으로 키워드를 태깅합니다. SDK는 콘텐츠 내용을 파악한 후, 본문에서 핵심 키워드, 또는 난해한 개념의 키워드를 셀렉하여 자동으로 태그를 삽입합니다.
   
 <br/>
 
@@ -33,13 +33,23 @@
 
 ---
  
-### **<code style="color : lightskyblue">이탈없는 실시간 AI 답변</code>** ###
+### **<code style="color : lightskyblue">궁금증 관련 질문 생성</code>** ###
 
-  키워드를 클릭하면 관련 질문이 생성되고, 기사 문맥을 바탕으로 실시간 답변이 생성됩니다.
+  키워드를 클릭하면 독자가 궁금해할만한 내용을 질문으로 자동 생성합니다. 질문은 포괄적인 궁금증부터 난해한 개념의 정의까지 폭넓게 포합됩니다.
   
 <br/>
 
-![Product Image](images/AI_response.png)
+![Product Image](images/ADK_Questions.png)
+
+---
+ 
+### **<code style="color : lightskyblue">이탈없는 실시간 AI 답변</code>** ###
+
+  관련 질문에 대해,  기사 문맥을 바탕으로 실시간 답변이 생성됩니다.
+  
+<br/>
+
+![Product Image](images/ADK_Responses.png)
 
 ---
 
