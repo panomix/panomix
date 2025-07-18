@@ -52,6 +52,18 @@ function sendEmail() {
 }
 </script>
 <section class="container">
+  <div class="section-chip panomix-blue">Flagship Product</div>
+  <div class="section-headline">
+    Swen AI
+  </div>
+  <div class="section-body">
+    어떠한 미디어 콘텐츠든 자연스럽게 녹아드는, 이탈 없는 최적의 유저 경험을 위한 AI, ADK를 소개합니다. ADK는 문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 인터랙션을 제공해 콘텐츠 몰입도와 체류시간을 효과적으로 증가시킵니다.
+  </div>
+</section>
+<div class="center">
+      <iframe style="width: 100%; aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/kIkpnR-KD88?si=qF_Mhi3Kq3sIan3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<section class="container">
   <div class="section-chip panomix-blue">New Product</div>
   <div class="section-headline">
     Swen AI
