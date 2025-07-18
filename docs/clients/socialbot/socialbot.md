@@ -103,3 +103,11 @@ Azure OpenAI는 고객 데이터의 보안과 정보보호에 최우선으로 �
 ## **기술 구조 Tech Architecture** ##
 
 소셜봇은 광학 문자 인식(OCR) 기술을 적용한 이미지 프로세싱을 통해 인스타그램/페이스북 게시글의 이미지를 분석하고, AI가 활용할 수 있는 RAG(벡터 데이터베이스)를 이용한 정확한 정보 기반으로 유저와 소통합니다. 
+
+
+---
+## **문의하기** ##
+  ### 파노믹스와의 협업을 원하신다면, 간단한 정보를 남겨주세요.
+  
+  👉 <a href="https://your-google-form-link.com" target="_blank">구글폼 작성하기</a> 또는 
+  <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
