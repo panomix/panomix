@@ -100,16 +100,6 @@ AI 기반 수집·필터링과 규칙화된 초안 생성 기능을 구현하고
 
 ![Product Image](images/Desking.png)
 
----
-
-
-### **<code style="color : lightskyblue">아카이브 기사 검색</code>** ###
-
-
-매체가 보유하고 있는 방대한 기존 기사의 데이터베이스와 Swen의 RAG 및 벡터 데이터베이스가 연결될 수 있도록 지원합니다. RAG 생성이 완료되면 이전 기사들과 새로운 기사 아이템을 조합한 새로운 기사가 탄생합니다. 또, AI 검색을 활용해 과거 기사를 검색하고, 당시 독자들의 반응이나 기사 내용을 참고해 다양한 관점을 제시할 수 있습니다.
-
-![Product Image](images/Archive.png)
-
 
 ---
 
@@ -118,4 +108,14 @@ AI 기반 수집·필터링과 규칙화된 초안 생성 기능을 구현하고
 기사 작성 과정에서 기자는 커스텀으로 AI를 활용하여 필요한 내용을 부분적으로 생성하거나 기사 내용을 보완할 수 있습니다.
 
 ![Product Image](images/Swen_AIReq.png)  ![Product Image](images/Swen_AIReq2.png)
+
+
+---
+
+### **<code style="color : lightskyblue">아카이브 기사 검색</code>** ###
+
+
+매체가 보유하고 있는 방대한 기존 기사의 데이터베이스와 Swen의 RAG 및 벡터 데이터베이스가 연결될 수 있도록 지원합니다. RAG 생성이 완료되면 이전 기사들과 새로운 기사 아이템을 조합한 새로운 기사가 탄생합니다. 또, AI 검색을 활용해 과거 기사를 검색하고, 당시 독자들의 반응이나 기사 내용을 참고해 다양한 관점을 제시할 수 있습니다.
+
+![Product Image](images/Archive.png)
 
