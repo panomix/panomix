@@ -121,7 +121,7 @@ AI 기반 수집·필터링과 규칙화된 초안 생성 기능을 구현하고
 
 ---
 ## **문의하기** ##
-  ### 파노믹스와의 협업을 원하신다면, 간단한 정보를 남겨주세요. ###
+### 파노믹스와의 협업을 원하신다면, 간단한 정보를 남겨주세요. ###
   
   👉 <a href="https://forms.gle/Jpzzf9gE25yAwJBWA" target="_blank">구글폼 작성하기</a> 또는 
   <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
