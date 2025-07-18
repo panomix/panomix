@@ -61,7 +61,7 @@ function sendEmail() {
   </div>
 </section>
 <div class="left">
-<iframe width="1200" height="600" src="https://www.youtube.com/embed/Ixc-gaphjG4" title="[파노믹스] ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 최적의 유저 경험을 위한 AI 서비스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1400" height="600" src="https://www.youtube.com/embed/Ixc-gaphjG4" title="[파노믹스] ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 최적의 유저 경험을 위한 AI 서비스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <section class="container">
   <div class="section-chip panomix-blue">Vertical Product</div>
