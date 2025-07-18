@@ -6,7 +6,7 @@ nav:
   - index.md
   - Flagship - ADK : flagship/adk.md
   - 클라이언트 프로젝트 Client Cases:
-      - 스웬 Swen: clients/news/news.md
+      - 스웬 Swen: clients/news/swen.md
       - 소셜봇 SocialBot: clients/socialbot/socialbot.md
       - 뉴스챗 NewsChat: clients/newschat/newschat.md
       - 반도체 Semiconductor AI Project: clients/factory/factory.md
