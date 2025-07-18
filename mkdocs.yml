@@ -4,8 +4,8 @@ repo_name: panomix/panomix
 strict: true
 nav:
   - index.md
-  - ADK : flagship/adk.md
-  - 클라이언트 사례 Client Cases:
+  - 대표 프로덕트 - ADK : flagship/adk.md
+  - 클라이언트 프로젝트 Client Cases:
       - 스웬 Swen: clients/news/news.md
       - 소셜봇 SocialBot: clients/socialbot/socialbot.md
       - 뉴스챗 NewsChat: clients/newschat/newschat.md
