@@ -10,3 +10,10 @@
 
 ![Product Image](images/deliver.png)
 <code style="color : cyan">제품을 설계하고, AI 모델과 아키텍처를 구현하여 빠른 검증과 개선을 거쳐 성공적으로 출시·운영을 지원합니다.</code> 
+
+---
+## **문의하기** ##
+  ### 파노믹스와의 협업을 원하신다면, 간단한 정보를 남겨주세요.
+  
+  👉 <a href="https://your-google-form-link.com" target="_blank">구글폼 작성하기</a> 또는 
+  <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
