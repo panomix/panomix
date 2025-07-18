@@ -133,7 +133,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
 ## **문의하기** ##
   ### 파노믹스와의 협업을 원하신다면, 간단한 정보를 남겨주세요.
   
-  👉 <a href="https://your-google-form-link.com" target="_blank">구글폼 작성하기</a> 또는 
+  👉 <a href="https://forms.gle/Jpzzf9gE25yAwJBWA" target="_blank">구글폼 작성하기</a> 또는 
   <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
 
 
