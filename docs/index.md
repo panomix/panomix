@@ -42,13 +42,13 @@ hide:
     You can find out more on our products & services.
   </div>
   <div class="header-buttons">
-    <a class="primary-button" onClick="sendEmail()">문의하기</a>
+    <a class="primary-button" onClick="openForm()">문의하기</a>
   </div>
 </header>
 
 <script>
-function sendEmail() {
-    window.location.href = 'mailto:info@panomix.io';
+function openForm() {
+    window.open('https://forms.gle/nigaQrp5W1Zh8hFU9','_blank');
 }
 </script>
 <section class="container">
