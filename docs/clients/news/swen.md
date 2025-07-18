@@ -107,7 +107,7 @@ AI 기반 수집·필터링과 규칙화된 초안 생성 기능을 구현하고
 
 기사 작성 과정에서 기자는 커스텀으로 AI를 활용하여 필요한 내용을 부분적으로 생성하거나 기사 내용을 보완할 수 있습니다.
 
-![Product Image](images/Swen_AIReq.png)  ![Product Image](images/Swen_AIReq2.png)
+![Product Image](images/Swen_AIReq.png) | ![Product Image](images/Swen_AIReq2.png)
 
 
 ---
