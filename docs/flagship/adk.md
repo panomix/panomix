@@ -3,6 +3,8 @@
 ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연동만으로 독자에게 스마트한 AI 경험을 제공하는 인터랙션 레이어입니다.
 기사 관련하여 추가 정보를 제공하거나, 사회적 반응 탐색하고, 풍부한 형태의 콘텐츠 경험을 통해 독자의 콘텐츠 몰입도를 높이고 체류 시간을 효과적으로 증가시킵니다.
 
+![Product Image](images/ADK_Logo.png)
+
 ### Demo: 미디어 콘텐츠에 자연스럽게 녹아드는 AI, 지금 확인해보세요. (예시: 스마트 태깅 ADK) ###
 <div class="left">
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/Ixc-gaphjG4" title="[파노믹스] ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 최적의 유저 경험을 위한 AI 서비스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,47 +22,31 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 
 ---
 
-## **기능 소개 Features** ##
+## **ADK 유형 소개 Features** ##
 <br/>
 
-### **<code style="color : lightskyblue">AI 스마트 태깅</code>** ###
-  콘텐츠 본문에서 자동으로 키워드를 태깅합니다. SDK는 콘텐츠 내용을 파악한 후, 본문에서 핵심 키워드, 또는 난해한 개념의 키워드를 셀렉하여 자동으로 태그를 삽입합니다.
+
+![Product Image](images/ADK_Types.png)
+
+### **<code style="color : lightskyblue">요약 정리</code>** ###
+- 긴 기사나 리포트 내용을 간결하게 제공 
+
+### **<code style="color : lightskyblue">스마트 태깅</code>** ###
+- 본문에서 핵심 키워드, 또는 난해한 개념의 키워드 태깅 후 정의 및 배경 정보 제공
+
+### **<code style="color : lightskyblue">투표하기</code>** ###
+- 콘텐츠 본문과 연결된 양자택일 주제로, 독자들이 직접 참여하면 투표 현황 및 추가 정보 제공
   
-<br/>
-
-![Product Image](images/Smart_tag.png)
-
----
- 
-### **<code style="color : lightskyblue">궁금증 관련 질문 생성</code>** ###
-  키워드를 클릭하면 독자가 궁금해할만한 내용을 질문으로 자동 생성합니다. 질문은 포괄적인 궁금증부터 난해한 개념의 정의까지 폭넓게 포합됩니다.
+### **<code style="color : lightskyblue">후속 질문</code>** ###
+- 독자가 기사를 읽는 중 생길 수 있는 궁금증을 Q&A 형태로 제공
   
-<br/>
+### **<code style="color : lightskyblue">표로 보기</code>** ###
+- 숫자, 데이터, 순위, 비교 정보 등 텍스트만으로는 즉각적인 이해가 어려운 
+내용을 표 형태로 시각화
 
-![Product Image](images/ADK_Questions.png)
+### **<code style="color : lightskyblue">운세 풀이</code>** ###
+- 콘텐츠에 언급된 주제 및 유명 인물 기반으로 독자가 흥미를 가질 만한 운세 풀이 제공
 
----------------
-
-
- 
-### **<code style="color : lightskyblue">이탈없는 실시간 AI 답변</code>** ###
-  관련 질문에 대해,  기사 문맥을 바탕으로 실시간 답변이 생성됩니다.
-  
-<br/>
-
-![Product Image](images/ADK_Responses.png)
-
----
-
-
-
-
-### **<code style="color : lightskyblue">추천 질문 & 사용자 검색</code>** ###
-  독자가 더 깊이 있는 탐색을 할 수 있도록 주제와 관련된 후속 질문을 자동 생성합니다. 또한, 검색창을 제공하여 독자가 추가로 궁금한 내용을 입력할시, AI가 즉시 답변을 할 수 있습니다.
-
-<br/>
-
-![Product Image](images/ADK_Searches.png)
 
 
 ---
@@ -108,7 +94,7 @@ ADK 또한 동일한 플로우와 구조를 기반으로 하기 때문에, 유�
 AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고 **페이지 체류시간이 자연스럽게 증가하며**, 독자들은 단순 소비에서 탐색 중심의 소비로 전환되어 **이탈률 또한 효과적으로 줄일 수 있습니다.**
 
 
-💴 **전체 PV당 수익 30% 증가
+💴 **전체 PV당 수익 30% 증가**
 
 - 체류시간 증가에 따른 전체 PV당 수익 증가 예상
   
@@ -133,6 +119,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/Jpzzf9gE25yAwJBWA" target="_blank">구글폼 작성하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
