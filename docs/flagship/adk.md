@@ -109,6 +109,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
 
 
 💴 **전체 PV당 수익 30% 증가
+
 - 체류시간 증가에 따른 전체 PV당 수익 증가 예상
   
 🎨 **UI/UX**
@@ -132,6 +133,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/Jpzzf9gE25yAwJBWA" target="_blank">구글폼 작성하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
