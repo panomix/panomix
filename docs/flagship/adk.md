@@ -1,8 +1,9 @@
 # **ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 이탈 없는 최적의 유저 경험을 위한 AI**
 
-문맥 속 핵심 키워드를 스마트 태깅하고, 질의응답과 인터랙션을 제공해 콘텐츠 몰입도와 체류시간을 효과적으로 증가시킵니다.
+ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연동만으로 독자에게 스마트한 AI 경험을 제공하는 인터랙션 레이어입니다.
+추가 정보 제공, 사회적 반응 탐색, 풍부한 형태의 콘텐츠 경험을 통해 독자의 몰입도를 높이고 체류 시간을 효과적으로 증가시킵니다.
 
-### Demo: 미디어 콘텐츠에 자연스럽게 녹아드는 AI, 지금 확인해보세요. ###
+### Demo: 미디어 콘텐츠에 자연스럽게 녹아드는 AI, 지금 확인해보세요. (예시: 스마트 태깅) ###
 <div class="left">
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/Ixc-gaphjG4" title="[파노믹스] ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 최적의 유저 경험을 위한 AI 서비스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -10,7 +11,7 @@
 ---
 ## *<code style="color : aquamarine">ADK는 이런 기업/단체를 위해 설계되었습니다.</code>* ##
 
--  기존 콘텐츠 흐름이나 브랜딩을 해치지 않고, 눈에 띄게 않게 AI 도입을 하고 싶은 매거진형 브랜드
+-  기존 콘텐츠 흐름이나 브랜딩을 해치지 않고, 눈에 띄게 않게 AI 도입을 하고 싶은 브랜드
 -  자체 AI 프로덕트를 개발하고 싶지만 내부 리소스가 부족한 중소 매체사
 -  AI 기술 도입에 대한 리스크나 비용 부담을 느끼는 기업
 -  신규 AI 프로덕트로의 트래픽 확장보다는 기존 콘텐츠의 체류시간 증가와 이탈 방지에 더 무게를 두는 기업
@@ -124,17 +125,13 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
 
 - AI 기술을 선도적으로 도입함으로서 독자에게 ‘앞서가는 미디어'라는 신뢰감, 광고주에게는 ‘차별화된 파트너십 가치’ 전달
 
-
----
-## **Pricing: 지금 ADK 도입을 시작해보세요.** ##
-![Product Image](images/ADK_Pricing.png)
-
 ---
 ## **문의하기** ##
 ### 파노믹스와의 협업을 원하신다면, 간단한 정보를 남겨주세요. ###
   
 👉 <a href="https://forms.gle/Jpzzf9gE25yAwJBWA" target="_blank">구글폼 작성하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
