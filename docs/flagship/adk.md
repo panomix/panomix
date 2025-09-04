@@ -1,9 +1,9 @@
 # **ADK: 기존 콘텐츠에 자연스럽게 녹아드는, 몰입형 AI 경험**
 
+![Product Image](images/ADK_PR1.jpg)
+
 ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연동만으로 독자에게 스마트한 AI 경험을 제공하는 인터랙션 레이어입니다.
 기사 관련하여 추가 정보를 제공하거나, 사회적 반응을 탐색하며, 풍부한 형태의 콘텐츠 경험을 통해 독자의 몰입도를 높이고 체류 시간을 효과적으로 증가시킵니다.
-
-![Product Image](images/ADK_PR1.jpg)
 
 ### Demo: 미디어 콘텐츠에 자연스럽게 녹아드는 AI, 지금 확인해보세요. (예시: 스마트 태깅 ADK) ###
 <div class="left">
@@ -88,6 +88,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/Jpzzf9gE25yAwJBWA" target="_blank">구글폼 작성하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
