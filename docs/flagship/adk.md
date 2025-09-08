@@ -8,10 +8,11 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 현재 무료 베타테스터 모집 중 
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a>
 
-### Demo: 미디어 콘텐츠에 자연스럽게 녹아드는 AI, 지금 확인해보세요. (예시: 스마트 태깅 ADK) ###
+### Demo: 기사 속 몰입형 AI 경험, 지금 무료로 만나보세요! ###
 <div class="left">
-<iframe width="1000" height="600" src="https://www.youtube.com/embed/Ixc-gaphjG4" title="[파노믹스] ADK - 기존 미디어 콘텐츠에 자연스럽게 녹아드는, 최적의 유저 경험을 위한 AI 서비스" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="577" height="1026" src="https://www.youtube.com/embed/etWaOx1KDSk" title="[파노믹스] ADK -  기사 속 몰입형 AI 경험, 지금 무료로 만나보세요!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
 
 ---
 ## *<code style="color : aquamarine">ADK는 이런 기업/단체를 위해 설계되었습니다.</code>* ##
@@ -101,6 +102,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
