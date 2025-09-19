@@ -80,7 +80,7 @@ All UX interactions happen within  whichever article the user is reading, with n
 ## **Contact Us** ##
 ### Interested in working with us? ###
   
-👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank"> Try beta for free </a> Or feel free to reach us at
+👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank"> Try beta for free </a> Or feel free to reach out for a free demo at
 <a href="mailto:info@panomix.io">info@panomix.io</a>.
 
 
