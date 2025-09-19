@@ -10,6 +10,9 @@ nav:
       - 소셜봇 SocialBot: clients/socialbot/socialbot.md
       - 뉴스챗 NewsChat: clients/newschat/newschat.md
       - 반도체 Semiconductor AI Project: clients/factory/factory.md
+# English version
+- English Home: en/index.md
+- Flagship - ADK: en/flagship.md
 
   - 파트너십 Partnerships:
       - TikTok Marketing Partner: partners/tiktok/overview.md
