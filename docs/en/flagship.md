@@ -37,7 +37,7 @@ ADK assists these organizations to enhance reader experience without interruptin
 - Visualizes text such as numbers, data, rankings etc. that are difficult to grasp from text alone to tables
 
 ### **Additional Options** ###
-※ Additional options such as adding a real-time chat feature or customizing UI ( colors, fonts etc. ) requires prior consultation with the team and may incur additional costs.
+Additional options such as adding a real-time chat feature or customizing UI ( colors, fonts etc. ) requires prior consultation with the team and may incur additional costs.
 ---
 
 ## **Expected Outcome & Benefits** ##
