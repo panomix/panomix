@@ -1,4 +1,4 @@
-# **Boost reader engagement.  Encourage interaction by implementing immersive AI features. **
+# **Boost reader engagement.  Encourage interaction by implementing immersive AI features.**
 
 ![Product Image](images/ADK_PR1_EN.jpg)
 
