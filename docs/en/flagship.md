@@ -37,13 +37,11 @@ ADK assists these organizations to enhance reader experience without interruptin
 - Visualizes text such as numbers, data, rankings etc. that are difficult to grasp from text alone to tables
 
 ### **Additional Options** ###
-Additional options such as adding a real-time chat feature or customizing UI ( colors, fonts etc. ) requires prior consultation with the team and may incur additional costs.
+- Additional options such as adding a real-time chat feature or customizing UI ( colors, fonts etc. ) requires prior consultation with the team and may incur additional costs.
 ---
 
 ## **Expected Outcome & Benefits** ##
-Our product/platform, NewsChat, has a similar user flow as ADK. 
-
-Launched in January, NewsChat has contributed to increasing user session duration by up to ~250%. As ADK is design based on a similar flow and structure, similar results can be expected.
+Our other platform, NewsChat, launched in January, follows a user flow similar to ADK. It has increased user session duration by up to ~250%. Since ADK is designed with a comparable flow and structure, we can expect similar results.
 
 ⏳ ** 150~200% Increase in Session Duration**
 
