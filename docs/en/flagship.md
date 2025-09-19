@@ -1,5 +1,8 @@
 # **Boost engagement with seamless, immersive AI experiences in your news articles**
 
+![Product Image](images/ADK_PR1_EN.jpg)
+
+
 ADK is an interaction layer that provides news article readers with an immersive AI experience through simple integration, without altering the existing content structure.
 It provides additional in-depth information related to articles, explores social reactions, and offers rich content experiences, effectively increasing reader engagement and session duration. 
 
