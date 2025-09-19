@@ -1,10 +1,10 @@
-# **Boost reader engagement.  Encourage interaction by implementing immersive AI features.**
+# **Boost reader engagement - Encourage interaction by implementing immersive AI features.**
 
 ![Product Image](images/ADK_PR1_EN.jpg)
 
 
-ADK is an interaction layer that provides news article readers with an immersive AI experience through simple integration, without altering the existing content structure.
-It provides additional in-depth information related to articles, explores social reactions, and offers rich content experiences, effectively increasing reader engagement and session duration. 
+ADK is an interaction layer that provides news readers with an immersive AI experience.
+Through various features, ADK delivers in-depth information beyond the articles, enables reader to explore social reactions, and provides rich content experiences, effectively increasing reader engagement and session duration. 
 
 We are currently recruiting free beta testers!
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">Register Now</a>
