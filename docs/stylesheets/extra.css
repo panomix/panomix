@@ -609,3 +609,24 @@ h3#mesop\.features\.theme\.ThemeVar {
 [data-md-color-scheme='mesop-dark'] .md-nav--primary .md-nav__item > .md-nav__link:hover {
   color: var(--md-accent-fg-color); /* optional, set a bright color for dark mode hover text */
 }
+
+/* Language toggle button */
+.lang-toggle-btn {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 999;
+  background-color: var(--primary-button-background-color);
+  color: var(--primary-button-text-color);
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.lang-toggle-btn:hover {
+  background-color: var(--primary-button-background-color-hover);
+}
+
