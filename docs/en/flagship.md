@@ -1,4 +1,4 @@
-# **Boost engagement with seamless, immersive AI experiences in your news articles**
+# **Boost reader engagement.  Encourage interaction by implementing immersive AI features. **
 
 ![Product Image](images/ADK_PR1_EN.jpg)
 
