@@ -21,6 +21,9 @@ ADK assists these organizations to enhance reader experience without interruptin
 
 ## **ADK Feature Overview** ##
 
+![Product Image](images/ADK_PR2_EN.jpg)
+
+
 ### **<code style="color : lightskyblue">Summary</code>** ###
 - Summarizes lengthy articles or reports in a concise paragraph
 
