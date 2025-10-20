@@ -26,7 +26,7 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 
 ---
 
-## **ADK Features 유형 소개** ##
+## **ADK Features 기능 소개** ##
 <br/>
 
 
@@ -53,21 +53,22 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 
 
 ### **추가 옵션 안내** ###
-※ 실시간 뉴스 채팅 기능, 커스텀 UI 디자인 (컬러, 폰트 등) 등 기능을 구현하려면 사전 협의 및 별도 비용이 발생합니다.
+※ 실시간 뉴스 채팅, 기사 페이지 번역, 클라이언트 웹사이트 환경 및 톤앤매너에 맞춘 커스텀 UI 디자인 (컬러, 폰트 등) 등 기능을 구현하려면 사전 협의 및 별도 비용이 발생할 수 있습니다.
 
 ---
 
 
-## **ADK Versions 버젼 소개 Versions** ##
+## **ADK Versions 버젼 소개** ##
 <br/>
 
 ![Product Image](images/ADK_Versions_Github.jpg)
 
+임베디드 ADK는 기사 본문 안에 자연스럽게 녹아들어 콘텐츠의 연속성을 유지하는 형태입니다.
+최근 추가된 플로팅 ADK는 화면 하단에 고정되어 팝업의 형태와 함께 독자의 자율성과 접근성을 높이는 형태입니다.
+두 버전 모두 독자 UX를 중심으로 설계되었으며, 사이트 환경과 독자 특성에 맞게 유연하게 선택하여 적용할 수 있습니다.
 
 
-
-
-
+![Product Image](images/FloatingUpdate_Github.jpg)
 
 
 ## **Expected Outcome 예상 효과 및 베네핏** ##
@@ -113,6 +114,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
