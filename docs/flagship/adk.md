@@ -66,13 +66,15 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 
 ![Product Image](images/ADK_Versions_Github.jpg)
 
-- 임베디드: 기사 본문 안에 자연스럽게 녹아들어 콘텐츠의 연속성을 유지하는 형태입니다.
 - 플로팅: 새롭게 선보인 플로팅 버젼은 ADK를 화면 하단에 툴 바 형태로 고정하여, 팝업의 형태와 함께 독자의 자율성과 프로덕트에 대한 접근성을 높이는 형태입니다.
-  
-두 버전 모두 독자 UX를 중심으로 설계되었으며, 사이트 환경과 독자 특성에 맞게 유연하게 선택하여 적용할 수 있습니다.
-
 
 ![Product Image](images/FloatingUpdate_Github.jpg)
+
+- 임베디드: 기사 본문 안에 자연스럽게 녹아들어 콘텐츠의 연속성을 유지하는 형태입니다.
+
+![Product Image](images/EmbeddedVersion_Github.jpg)
+  
+두 버전 모두 독자 UX를 중심으로 설계되었으며, 사이트 환경과 독자 특성에 맞게 유연하게 선택하여 적용할 수 있습니다.
 
 
 ## **Expected Outcome 예상 효과 및 베네핏** ##
@@ -118,6 +120,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
