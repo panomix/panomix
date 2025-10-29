@@ -11,14 +11,6 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a>
 
 ---
-
-### Demo: 기사 속 몰입형 AI 경험, 지금 무료로 만나보세요! ###
-<div class="left">
-<iframe width="577" height="1026" src="https://www.youtube.com/embed/etWaOx1KDSk" title="[파노믹스] ADK -  기사 속 몰입형 AI 경험, 지금 무료로 만나보세요!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-
----
 ## *<code style="color : aquamarine">ADK는 이런 기업/단체를 위해 설계되었습니다.</code>* ##
 
 -  기존 콘텐츠 흐름이나 브랜딩을 해치지 않고, 자연스럽게  AI 도입을 하고 싶은 브랜드
@@ -55,9 +47,8 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 ### **<code style="color : lightskyblue">운세 풀이</code>** ###
 - 콘텐츠에 언급된 주제 및 유명 인물 기반으로 독자가 흥미를 가질 만한 운세 풀이 제공
 
-
-### **추가 옵션 안내** ###
-※ 실시간 뉴스 채팅, 기사 페이지 번역, 클라이언트 웹사이트 환경 및 톤앤매너에 맞춘 커스텀 UI 디자인 (컬러, 폰트 등) 등 기능을 구현하려면 사전 협의 및 별도 비용이 발생할 수 있습니다.
+*이 외에 기사 요약, 실시간 채팅, 기사 번역 등의 기능을 추가 할 수 있습니다.
+(사전 협의 및 별도 비용이 발생할 수 있습니다.)
 
 ---
 
@@ -75,7 +66,17 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 ![Product Image](images/EmbeddedVersion_Github.jpg)
   
 두 버전 모두 독자 UX를 중심으로 설계되었으며, 사이트 환경과 독자 특성에 맞게 유연하게 선택하여 적용할 수 있습니다.
+*클라이언트 웹사이트 환경 및 톤앤매너에 맞춘 커스텀 UI 디자인 (컬러, 폰트, 매체 로고 추가 등)도 가능합니다. 
+(사전 협의 및 별도 비용이 발생할 수 있습니다.)
 
+---
+
+### Demo (임베디드 버젼): 기사 속 몰입형 AI 경험, 지금 무료로 만나보세요! ###
+<div class="left">
+<iframe width="577" height="1026" src="https://www.youtube.com/embed/etWaOx1KDSk" title="[파노믹스] ADK -  기사 속 몰입형 AI 경험, 지금 무료로 만나보세요!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
 
 ## **Expected Outcome 예상 효과 및 베네핏** ##
 파노믹스의 또 다른 프로덕트인 뉴스챗은 ADK와 유사한 사용자 흐름을 기반으로 설계된 솔루션입니다. 
@@ -120,6 +121,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
