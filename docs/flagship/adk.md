@@ -62,9 +62,9 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 ---
 
 
-## **ADK 버젼 소개** ##
+## **ADK 디스플레이 버젼 소개** ##
 
-![Product Image](images/ADK_Versions_Github.jpg)
+![Product Image](images/Choose_ADK.jpg)
 
 - 플로팅: 새롭게 선보인 플로팅 버젼은 ADK를 화면 하단에 툴 바 형태로 고정하여, 팝업의 형태와 함께 독자의 자율성과 프로덕트에 대한 접근성을 높이는 형태입니다.
 
@@ -120,6 +120,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
