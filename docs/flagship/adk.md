@@ -28,27 +28,35 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 
 ![Product Image](images/ADK_PR2.jpg)
 
+### **<code style="color : lightskyblue">후속 질문</code>** ###
+- 독자가 기사를 읽는 중 생길 수 있는 궁금증을 Q&A 형태로 제공
+- *기사 마다 1~3개의 후속질문이 생성되며, 길이에 따라 디스플레이 방식이 정해집니다.
+
+![Product Image](images/RelatedQuestions_Update.jpg)
+
+  
 ### **<code style="color : lightskyblue">요약 정리</code>** ###
 - 긴 기사나 리포트 내용을 간결하게 제공 
 
-### **<code style="color : lightskyblue">스마트 태깅</code>** ###
-- 본문에서 핵심 키워드, 또는 난해한 개념의 키워드 태깅 후 정의 및 배경 정보 제공
-
-### **<code style="color : lightskyblue">투표하기</code>** ###
-- 콘텐츠 본문과 연결된 양자택일 주제로, 독자들의 직접적인 참여로 투표 현황 및 추가 배경 정보 제공
-  
-### **<code style="color : lightskyblue">후속 질문</code>** ###
-- 독자가 기사를 읽는 중 생길 수 있는 궁금증을 Q&A 형태로 제공
-  
 ### **<code style="color : lightskyblue">표로 보기</code>** ###
 - 숫자, 데이터, 순위, 비교 정보 등 텍스트만으로는 즉각적인 이해가 어려운 
 내용을 표 형태로 시각화
 
-### **<code style="color : lightskyblue">운세 풀이</code>** ###
-- 콘텐츠에 언급된 주제 및 유명 인물 기반으로 독자가 흥미를 가질 만한 운세 풀이 제공
+### **<code style="color : lightskyblue">스마트 태깅</code>** ###
+- 본문에서 핵심 키워드, 또는 난해한 개념의 키워드 태깅 후 정의 및 배경 정보 제공
 
-*이 외에 기사 요약, 실시간 채팅, 기사 번역 등의 기능을 추가 할 수 있습니다.
-(사전 협의 및 별도 비용이 발생할 수 있습니다.)
+---
+
+### **<code style="color : lightskyblue">투표하기</code>** ###
+- 콘텐츠 본문과 연결된 양자택일 주제로, 독자들의 직접적인 참여로 투표 현황 및 추가 배경 정보 제공
+- 예: 동의 vs. 반대, A or B 형태 
+  
+### **<code style="color : lightskyblue">플로팅 채팅 바</code>** ###
+- 플로팅 형태로, 기사를 읽으면서 독자가 궁금한 점을 검색할 수 있는 채팅 옵션 
+- 채팅 바 클릭시 후속 질문이 추천됩니다
+
+* 기본 패키지인 후속 질문, 스마트태깅, 요약 정리, 표로 보기 외의 기능은 프리미엄 기능으로, 도입을 원하신다면 문의 부탁드립니다.
+(사전 협의 후 별도 비용이 발생할 수 있습니다.)
 
 ---
 
@@ -121,6 +129,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
