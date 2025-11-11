@@ -57,7 +57,10 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 ### **<code style="color : lightskyblue">투표하기</code>** ###
 - 콘텐츠 본문과 연결된 양자택일 주제로, 독자들의 직접적인 참여로 투표 현황 및 추가 배경 정보 제공
 - 예: 동의 vs. 반대, A or B 형태 
-  
+
+![Product Image](images/Vote.jpg)
+
+
 ### **<code style="color : lightskyblue">플로팅 채팅 바</code>** ###
 - 플로팅 형태로, 기사를 읽으면서 독자가 궁금한 점을 검색할 수 있는 채팅 옵션 
 - 채팅 바 클릭시 후속 질문이 추천됩니다
@@ -136,6 +139,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
