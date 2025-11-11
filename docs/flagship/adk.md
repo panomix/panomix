@@ -34,9 +34,10 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 
 ![Product Image](images/RelatedQuestions_Update.jpg)
 
-  
 ### **<code style="color : lightskyblue">요약 정리</code>** ###
-- 긴 기사나 리포트 내용을 간결하게 제공 
+- 긴 기사나 리포트 내용을 간결하게 제공
+
+![Product Image](images/Summarize.jpg)
 
 ### **<code style="color : lightskyblue">표로 보기</code>** ###
 - 숫자, 데이터, 순위, 비교 정보 등 텍스트만으로는 즉각적인 이해가 어려운 
@@ -129,6 +130,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
