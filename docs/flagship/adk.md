@@ -25,12 +25,11 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 ## **ADK Features 기능 소개** ##
 <br/>
 
-
-![Product Image](images/ADK_PR2.jpg)
-
 ### **<code style="color : lightskyblue">후속 질문</code>** ###
 - 독자가 기사를 읽는 중 생길 수 있는 궁금증을 Q&A 형태로 제공
 - *기사 마다 1~3개의 후속질문이 생성되며, 길이에 따라 디스플레이 방식이 정해집니다.
+
+![Product Image](images/RelatedQuestions.png)
 
 ![Product Image](images/RelatedQuestions_Update.jpg)
 
@@ -138,6 +137,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
