@@ -43,8 +43,14 @@ ADK는 매체의 기존 콘텐츠 구조를 변경하지 않고, 간단한 연�
 - 숫자, 데이터, 순위, 비교 정보 등 텍스트만으로는 즉각적인 이해가 어려운 
 내용을 표 형태로 시각화
 
+![Product Image](images/TableView.jpg)
+
+
 ### **<code style="color : lightskyblue">스마트 태깅</code>** ###
 - 본문에서 핵심 키워드, 또는 난해한 개념의 키워드 태깅 후 정의 및 배경 정보 제공
+
+![Product Image](images/Smarttag.jpg)
+
 
 ---
 
@@ -130,6 +136,7 @@ AI와의 인터랙션을 통해 사용자의 콘텐츠 몰입도가 높아지고
   
 👉 <a href="https://forms.gle/58WYd59pJY5M8zV89" target="_blank">무료 베타테스터 신청하기</a> 또는 
 <a href="mailto:info@panomix.io">info@panomix.io</a>로 메일 주세요.
+
 
 
 
