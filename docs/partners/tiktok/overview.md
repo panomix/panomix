@@ -4,9 +4,9 @@
 
 ![Product Image](images/tiktokmarketingpartners.png)
 
-<div class=“video-embed” aria-hidden=“false”>
+<div class="center">
   <iframe
-    src=“https://www.youtube-nocookie.com/embed/9OnEbRvBlfs?rel=0”
+    src=“https://www.youtube.com/embed/9OnEbRvBlfs?rel=0”
     title=“4가지 무화과 샌드위치 만들기”
     allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share”
     allowfullscreen
@@ -14,3 +14,5 @@
     referrerpolicy=“no-referrer-when-downgrade”>
   </iframe>
 </div>
+
+
